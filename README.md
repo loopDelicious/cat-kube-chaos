@@ -26,3 +26,5 @@ The underlying deployment utility [`npx deploy-to-kube`](https://github.com/kube
 
     ? What is your application's entrypoint? e.g. src/services/server.js
     ? Which protocol does your application speak? e.g. http
+
+![[catURL website](https://github.com/loopDelicious/cat-kube-stateless/blob/master/catUrl.gif)](https://github.com/loopDelicious/cat-kube-stateless/blob/master/catUrl.gif)
